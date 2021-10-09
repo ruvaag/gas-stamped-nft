@@ -1,6 +1,5 @@
 # Gas Stamped NFTs
-A Novel FCFS NFT Mint Mechanism
----
+#### Another FCFS NFT Mint Mechanism
 
 ### The Problem
 A moderately hyped NFT drop on ETH L1 can see gas prices skyrocket to upto four digit gwei levels. 
